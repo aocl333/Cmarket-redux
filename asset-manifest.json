@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cmarket-redux/static/css/main.f8748753.css",
+    "main.js": "/Cmarket-redux/static/js/main.baaf8b94.js",
+    "index.html": "/Cmarket-redux/index.html",
+    "main.f8748753.css.map": "/Cmarket-redux/static/css/main.f8748753.css.map",
+    "main.baaf8b94.js.map": "/Cmarket-redux/static/js/main.baaf8b94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8748753.css",
+    "static/js/main.baaf8b94.js"
+  ]
+}
