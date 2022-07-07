@@ -1,6 +1,6 @@
 ## Cmarket Redux
 
-Github Repository : https://aocl333.github.io/fe-sprint-react-custom-component/
+Github Repository : https://aocl333.github.io/Cmarket-redux/
 
 ## Bare minimum requirements
 
